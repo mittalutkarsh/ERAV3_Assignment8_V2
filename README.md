@@ -4,8 +4,7 @@ This repository contains various neural network model implementations for the CI
 
 ## Project Structure
 
-### Layer Configuration
-[Insert your Excel screenshot showing the detailed layer configuration]
+
 
 ## Training Configuration
 - Batch Size: 64
