@@ -1,0 +1,18 @@
+# Ignore everything except specific files we want
+*
+!README.md
+!Model_9.py
+!train3.py
+!Deciding_no_of_layers.xlsx
+!image.png
+!image-1.png
+!.gitignore
+
+# Always ignore these
+.DS_Store
+__pycache__/
+*.pyc
+data*.py
+Model_[1-8].py
+train.py
+train2.py 
